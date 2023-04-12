@@ -3,8 +3,7 @@
 <br><br>
 
 - 💥 Curso Analise e Desenvolvimento de Sistemas.
-- 🔭 Programador Front-end.
-- 🌱 Estou aprendendo Azure e desenvolvimento de software.
+- 🌱 Aprendendo sobre desenvolvimento de software.
 - 💬 Me pergunte sobre programação.
 - 📱 Como chegar até mim: Minhas redes sociais!
 - ⚡ Fato curioso: Sei tocar teclado :)
