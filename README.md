@@ -2,7 +2,8 @@
 <hr>
 <br><br>
 
-- 💥 Curso Analise e Desenvolvimento de Sistemas.
+- ⌛ 20 anos, sou de Duque de Caxias-RJ
+- 📝 Curso Analise e Desenvolvimento de Sistemas.
 - 🌱 Aprendendo sobre desenvolvimento de software.
 - 💬 Me pergunte sobre programação.
 - 📱 Como chegar até mim: Minhas redes sociais!
