@@ -2,7 +2,6 @@
 <hr>
 <br><br>
 
-- ⌛ 20 anos, sou de Duque de Caxias-RJ
 - 📝 Curso Analise e Desenvolvimento de Sistemas.
 - 🌱 Aprendendo sobre desenvolvimento de software.
 - 💬 Me pergunte sobre programação.
