@@ -1,13 +1,13 @@
 ## Olá! Eu sou o Raone castro de Souza 👋
 <hr>
-<br><br>
+<br>
 
 - 📝 Curso Analise e Desenvolvimento de Sistemas.
 - 🌱 Aprendendo sobre desenvolvimento de software.
 - 💬 Me pergunte sobre programação.
 - 📱 Como chegar até mim: Minhas redes sociais!
 - ⚡ Fato curioso: Sei tocar teclado :)
-<br><br>
+<br>
 
  ### <b>"Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos". (Provérbios 16:3)
  <br><br>
