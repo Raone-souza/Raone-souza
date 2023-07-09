@@ -3,7 +3,7 @@
 <br>
 
 - 📝 Curso Analise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo sobre desenvolvimento de software.
+- 🌱 Quero seguir como desenvolvedor de Software.
 - 💬 Me pergunte sobre programação.
 - 📱 Como chegar até mim: Minhas redes sociais!
 - ⚡ Fato curioso: Sei tocar teclado :)
@@ -20,7 +20,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="26" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">  
   <img align="center" height="30" width="26" src="https://cdn.iconscout.com/icon/free/png-256/php-3521631-2945075.png">
-   <img align="center" alt="Gabi-C" height="30" width="28" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png">
+   <img align="center" height="30" width="28" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png">
   
 </div>
 <br><br>
