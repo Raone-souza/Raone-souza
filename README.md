@@ -17,39 +17,39 @@
 <h1 align="center" >⚒️ Linguagens - Frameworks - Ferramentas ⚒️</h1>
 <br><br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 </div>
 <br><br>
 
