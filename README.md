@@ -95,9 +95,8 @@
 </div>
 <br>
 
-###
 
-![snake gif](https://github.com/Raone-souza/Raone-souza/blob/output/github-snake-dark.svg)
+   ![snake gif ](https://github.com/Raone-souza/Raone-souza/blob/output/github-snake-dark.svg)
 <br><br>
 
 ###
