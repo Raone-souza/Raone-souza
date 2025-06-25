@@ -2,97 +2,86 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Raone+Souza!;" />
 </h1>
-<br><br>
 
 
-<h1 align="center">Desenvolvedor de Software</h1>
+# Desenvolvedor de Software 
 
-###
-<h3 align="center">Tenho 21 anos e sou apaixonado por tecnologia principalmente a área de desenvolvimento de software. gosto de codificar e encontrar soluções criativas para problemas. Meu foco está no desenvolvimento de software.</h3>
-<br>
-
-###
-<h1 align="center">Sobre mim</h1>
-
-###
-<h3 align="center">🌍 Localizado em Duque de Caxias - Rio de Janeiro.<br>💻 Apaixonado por Tecnologia e Programação e por música.<br>📚 Sempre aprendendo e experimentando novas tecnologias.<br>🚀 Em busca de oportunidades para crescer e contribuir.</h3>
-<br>
-
-###
-<h1 align="center">⚒️ Eu codifico com ⚒️</h1>
-
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+<div align="justify">É um prazer me apresentar. Sou um jovem apaixonado por tecnologia, com um foco imenso em desenvolvimento de software.
 </div>
+
+**Gosto de criar aplicações criativas e inovadores que façam a diferença e transformar ideias em soluções funcionais, buscando sempre evoluir, aprender novas tecnologias.**
+
 <br>
 
-###
+<h3>Meu Portfólio</h3>
 
-<h1 align="center">⚒️ Ferramentas ⚒️</h1>
+  ***Desenvolvido com Html | Css | Tailwindcss | Javascript 👾***
+<a href="https://raone-souza.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <button style="background-color:rgba(11, 16, 82, 0.83); color: white; padding: 12px 25px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">
+    Acesse aqui ⬅️
+  </button>
+</a>
 
+<br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+Linguagens e Ferramentas:
+-----------------------------
+<br>
+
+<div style="display: inline_block" align=center>
+
+<img align="center" alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="dotnetcore" width="40" height="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"/>  
+<img align="center" alt="dotnetmicrosoft" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
+<img align="center" alt="html5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="css3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="aws" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
+<img align="center" alt="sqlserver" width="40" height="40" 
+src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>  
+<img align="center" alt="postgresql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<img align="center" alt="azure" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png">
+<img align="center" alt="github" height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
+<img align="center" alt="git" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+<img align="center" alt="visualstudio" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png">
+<img align="center" alt="visualstudiocode" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
 </div>
+
 <br>
 
-###
-<h1 align="center"> Rede sociais </h1>
+Socials:
+-----------------------------
 
-###
-
-<div align="center">
+<div align="center"> 
+  <a href="mailto:raone199807@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   <a href="https://www.linkedin.com/in/raonesouza/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="https://github.com/Raone-souza/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/raone.souzx/profilecard/?igsh=MWpiZWVrazg5YTFwOA%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=raone199807@gmail.com&tf=cm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
+  <a href="https://api.whatsapp.com/send/?phone=5519993790111&text&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
-<br><br>
 
-
-###
 <br>
 <div align="center">
   <a href="https://github.com/Raone-souza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raone-souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></img>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raone-souza&layout=compact&langs_count=7&theme=tokyonight"></img>
+    <table>
+      <tr>
+        <td>
+          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raone-souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        </td>
+        <td>
+          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raone-souza&layout=compact&langs_count=7&theme=tokyonight"/>
+        </td>
+      </tr>
+    </table>
   </a>
-<br>
 </div>
+
 <br>
 
 
